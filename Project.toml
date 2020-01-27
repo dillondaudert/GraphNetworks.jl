@@ -1,0 +1,4 @@
+name = "GraphNetworks"
+uuid = "3073ebb0-0f29-4703-a774-8ae5e3fd91a2"
+authors = ["Dillon Daudert <dillongdaudert@gmail.com>"]
+version = "0.1.0"
